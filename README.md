@@ -3,9 +3,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sush-debug&label=Profile%20views&color=0e75b6&style=flat" alt="sush-debug" /> </p>
 
-- 🔭 I’m currently working on **full stack projects**
+- 🔭 I’m currently working on **MERN  stack projects**
 
-- 🌱 I’m currently learning **backend**
+- 🌱 I’m currently learning **  MERN Stack**
 
 - 📫 How to reach me **sarawadesushant2005@gmail.com**
 
